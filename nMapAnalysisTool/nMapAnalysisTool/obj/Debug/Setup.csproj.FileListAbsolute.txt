@@ -1,0 +1,13 @@
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\nMapAnalysisTool\bin\Debug\nMapAnalysisTool.exe.config
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\nMapAnalysisTool\bin\Debug\nMapAnalysisTool.exe
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\nMapAnalysisTool\bin\Debug\nMapAnalysisTool.pdb
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\nMapAnalysisTool\bin\Debug\SharedLibrary.dll
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\nMapAnalysisTool\bin\Debug\SqlInterface.dll
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\nMapAnalysisTool\bin\Debug\SharedLibrary.pdb
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\nMapAnalysisTool\bin\Debug\SqlInterface.pdb
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\nMapAnalysisTool\obj\Debug\Setup.csprojResolveAssemblyReference.cache
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\nMapAnalysisTool\obj\Debug\nMapAnalysisTool.exe
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\nMapAnalysisTool\obj\Debug\nMapAnalysisTool.pdb
+C:\Users\George\Documents\GitHub\nMap-Secerity-Collection-Tool\nMapAnalysisTool\nMapAnalysisTool\bin\Debug\nMapAnalysisTool.exe.config
+C:\Users\George\Documents\GitHub\nMap-Secerity-Collection-Tool\nMapAnalysisTool\nMapAnalysisTool\obj\Debug\nMapAnalysisTool.exe
+C:\Users\George\Documents\GitHub\nMap-Secerity-Collection-Tool\nMapAnalysisTool\nMapAnalysisTool\obj\Debug\nMapAnalysisTool.pdb

@@ -1,0 +1,8 @@
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\SqlInterface\obj\Debug\SqlInterface.csprojResolveAssemblyReference.cache
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\SqlInterface\bin\Debug\SqlInterface.dll
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\SqlInterface\bin\Debug\SqlInterface.pdb
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\SqlInterface\bin\Debug\SharedLibrary.dll
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\SqlInterface\bin\Debug\SharedLibrary.pdb
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\SqlInterface\obj\Debug\SqlInterface.dll
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\SqlInterface\obj\Debug\SqlInterface.pdb
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\SqlInterface\bin\Debug\MySql.Data.Entity.EF5.dll

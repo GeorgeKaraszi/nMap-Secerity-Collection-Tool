@@ -1,0 +1,5 @@
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\SharedLibrary\obj\Debug\SharedLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\SharedLibrary\bin\Debug\SharedLibrary.dll
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\SharedLibrary\bin\Debug\SharedLibrary.pdb
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\SharedLibrary\obj\Debug\SharedLibrary.dll
+C:\Users\Justify\Source\Repos\nMapAnalysisTool\SharedLibrary\obj\Debug\SharedLibrary.pdb
